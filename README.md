@@ -1,3 +1,3 @@
 # 6bits-RDAC
-6 bits-RDAC
-Please refer to the pdf file
+Designing and simulating a 6 bits-RDAC circuit.
+For the details, please refer to the pdf file.
