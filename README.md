@@ -20,3 +20,6 @@ This is a Final Project of Introduction to IC Design class.
 
 # Performance Summary
 <img width = "500" height = "500" src = "https://github.com/willy850329/6bits-RDAC/blob/master/6-bit_RDAC_img/performance.png">
+
+
+******* For more information, please refer to the pdf file ****************************
