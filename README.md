@@ -1,4 +1,4 @@
-# 6bits RDAC Design and simulation
+# 6bits RDAC Design and Simulation
 This is a Final Project of Introduction to IC Design class.
 * A 6-bit RDAC(R-digital to analog converter) with a unity-gain amplifier. 
 * The unity-gain amplifier is used to drive a capacitive load of 3 pF. 
